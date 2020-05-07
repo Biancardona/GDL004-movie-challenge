@@ -1,0 +1,60 @@
+
+* {
+    box-sizing: border-box;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #e7ebf0;
+    display: flex;
+}
+
+
+.navBar{
+    display: inline-block;
+    background: #070c4b;
+    padding: 10px 30px;
+  
+}
+
+.navBar{
+    background: #070c4b;
+}
+
+nav{
+    width: 1440px;
+    height: 137px;
+    left: 0px;
+    top: 0px;
+    background:  #070c4b;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.buttonImage{
+width: 368px;
+height: 364px;
+left: 30px;
+top: 474px;
+display: block;
+}
+
+.titleSaga{
+    width: 427px;
+    height: 43px;
+    left: 33px;
+    top: 280px;
+    
+    font-family: Roboto Slab;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 50px;
+    line-height: 66px;
+    text-align: center;
+    
+    color: #000000;
+}
